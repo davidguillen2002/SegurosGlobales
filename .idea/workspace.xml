@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="90a8a0a1-e197-4f0d-b89d-d03a5e669044" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/SegurosGlobales.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguros_globales_project/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguros_globales_project/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguros_globales_project/reclamos/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguros_globales_project/reclamos/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguros_globales_project/reclamos/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguros_globales_project/reclamos/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguros_globales_project/reclamos/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguros_globales_project/reclamos/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguros_globales_project/reclamos/templates/reclamos/exportar_reclamos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguros_globales_project/reclamos/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguros_globales_project/reclamos/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguros_globales_project/reclamos/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguros_globales_project/seguros_globales_project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguros_globales_project/seguros_globales_project/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguros_globales_project/seguros_globales_project/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguros_globales_project/seguros_globales_project/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguros_globales_project/seguros_globales_project/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguros_globales_project/validacion/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguros_globales_project/validacion/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguros_globales_project/validacion/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguros_globales_project/validacion/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguros_globales_project/validacion/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguros_globales_project/validacion/templates/validacion/procesar_reclamos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguros_globales_project/validacion/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguros_globales_project/validacion/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seguros_globales_project/validacion/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2nlfDwicCKtYXMiyK2t7jQAhma4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "ignore_missing_gitignore": "true"
+  },
+  "keyToStringList": {
+    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": []
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90a8a0a1-e197-4f0d-b89d-d03a5e669044" name="Changes" comment="" />
+      <created>1729552466783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729552466783</updated>
+    </task>
+    <servers />
+  </component>
+</project>
