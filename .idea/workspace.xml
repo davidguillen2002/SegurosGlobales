@@ -4,40 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90a8a0a1-e197-4f0d-b89d-d03a5e669044" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SegurosGlobales.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguros_globales_project/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguros_globales_project/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguros_globales_project/reclamos/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguros_globales_project/reclamos/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguros_globales_project/reclamos/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguros_globales_project/reclamos/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguros_globales_project/reclamos/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguros_globales_project/reclamos/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguros_globales_project/reclamos/templates/reclamos/exportar_reclamos.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguros_globales_project/reclamos/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguros_globales_project/reclamos/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguros_globales_project/reclamos/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguros_globales_project/seguros_globales_project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguros_globales_project/seguros_globales_project/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguros_globales_project/seguros_globales_project/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguros_globales_project/seguros_globales_project/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguros_globales_project/seguros_globales_project/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguros_globales_project/validacion/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguros_globales_project/validacion/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguros_globales_project/validacion/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguros_globales_project/validacion/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguros_globales_project/validacion/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguros_globales_project/validacion/templates/validacion/procesar_reclamos.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguros_globales_project/validacion/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguros_globales_project/validacion/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seguros_globales_project/validacion/views.py" afterDir="false" />
+    <list default="true" id="90a8a0a1-e197-4f0d-b89d-d03a5e669044" name="Changes" comment="Funcionalidades">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;davidguillen2002&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:/davidguillen2002/SegurosGlobales.git&quot;,
+    &quot;accountId&quot;: &quot;78eb00d7-9c88-4cdf-93e8-9cbca720ee0e&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -56,17 +36,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "ignore_missing_gitignore": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;ignore_missing_gitignore&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": []
+  &quot;keyToStringList&quot;: {
+    &quot;stardust.markdown.MarkdownSplitEditorSuppressor:keyList&quot;: []
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -83,6 +63,27 @@
       <option name="presentableId" value="Default" />
       <updated>1729552466783</updated>
     </task>
+    <task id="LOCAL-00001" summary="Funcionalidades">
+      <option name="closed" value="true" />
+      <created>1729707560418</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729707560418</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Funcionalidades">
+      <option name="closed" value="true" />
+      <created>1729707574723</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729707574723</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Funcionalidades" />
+    <option name="LAST_COMMIT_MESSAGE" value="Funcionalidades" />
   </component>
 </project>
